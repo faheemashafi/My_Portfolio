@@ -11,7 +11,7 @@ function Home() {
       <Col data-aos="fade-down-right"  data-aos-easing="linear"
           data-aos-duration="800" md={6}><h3 style={{marginTop:"19%"}}> <b style={{fontFamily: "font-family: 'Jost', sans-serif;",color:"white"}} >Hello, It's Me</b></h3><br />
       <h1 data-aos="flip-up" data-aos-easing="linear"
-          data-aos-duration="800" style={{fontFamily:"'Philosopher', sans-serif",fontSize:"60px",fontWeight:"700" ,marginTop:"-3%",color:"white"}}>Hafish Ali N</h1><br />
+          data-aos-duration="800" style={{fontFamily:"'Philosopher', sans-serif",fontSize:"60px",fontWeight:"700" ,marginTop:"-3%",color:"white"}}>Faheema PS</h1><br />
       <h3 style={{marginTop:"-3%"}}> <b style={{fontFamily: "font-family: 'Jost', sans-serif;",color:"white"}} >And I'm a  <span style={{color:"#fcb045"}}>MERN Stack Developer</span></b></h3><br />
       <p style={{fontFamily: "font-family: 'Jost', sans-serif;",color:"white",marginTop:"-4%"}}><b>I'm a passionate and smart working individual who is always looking to improve my skills and learn new technologies.</b></p>
       <div className='col-lg-3 col-sm-12 icons d-flex justify-content-evenly ms-3 mt-4'>
